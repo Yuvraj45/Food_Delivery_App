@@ -1,0 +1,12 @@
+package com.fooddelivery.demo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class FoodDeliveryApplicationTest {
+
+    @Test
+    void contextLoads() {
+    }
+}
